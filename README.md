@@ -22,13 +22,7 @@ Proyek ini bertujuan untuk menganalisis data transaksi penjualan guna mengidenti
 ## **Visualisasi** 📈  
 - **Tren Transaksi Pelanggan**: Visualisasi performa transaksi pelanggan dari waktu ke waktu.
 - **Performa Produk**: Memahami tren penjualan untuk kategori produk berbeda dan hubungan dengan kampanye pemasaran.
-
-![Visualisasi Transaksi Pelanggan](https://via.placeholder.com/500x300?text=Pergerakan+Transaksi+Customer+terhadap+Waktu)  
-_Contoh visualisasi tren transaksi pelanggan._
-
-![Visualisasi Performa Produk](https://via.placeholder.com/500x300?text=Pergerakan+Nilai+Transaksi+Produk)  
-_Contoh visualisasi performa produk dan transaksi terkait._
-
+- 
 ---
 
 ## **Instalasi dan Pengaturan** ⚙️  
