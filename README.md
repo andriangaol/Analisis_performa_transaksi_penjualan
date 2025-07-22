@@ -22,7 +22,12 @@ Proyek ini bertujuan untuk menganalisis data transaksi penjualan guna mengidenti
 ## **Visualisasi** 📈  
 - **Tren Transaksi Pelanggan**: Visualisasi performa transaksi pelanggan dari waktu ke waktu.
 - **Performa Produk**: Memahami tren penjualan untuk kategori produk berbeda dan hubungan dengan kampanye pemasaran.
-- 
+
+---
+## **Dashboard Interaktif**  
+Anda dapat melihat dashboard visualisasi transaksi secara langsung melalui link berikut:  
+[Dashboard Looker Studio](https://lookerstudio.google.com/u/0/reporting/0cb2fd9c-cfc0-4a04-90a6-97f583142d53/page/IFGnD)
+
 ---
 
 ## **Instalasi dan Pengaturan** ⚙️  
